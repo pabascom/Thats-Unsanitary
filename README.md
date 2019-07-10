@@ -1,2 +1,2 @@
-# Week1Day5Test
-Containing the Infected Room Problem
+# The Infected Room
+Code for a programming challenge
